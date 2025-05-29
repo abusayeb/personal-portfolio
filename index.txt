@@ -2,39 +2,39 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Md Abu Sayeb Rayhan
+Md Abu Sayeb Rayhan
+Data Scientist
 
 Show Contacts
 
 Email
-richard@example.com
+sayeb.cc.75@gmail.com
 
 Phone
-+1 (213) 352-2795
++819082813661
 
 Birthday
-June 23, 1982
+November 6, 2000
 
 Location
-Sacramento, California, USA
+Dinajpur, Bangladesh
 
 # navbar
 
 About
 Resume
 Portfolio
-Blog
+
 Contact
 
 # about
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a Data Scientist from Kyoto, Japan, working in Computer Vision and AI. I enjoy to make the machine understand the visual.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My job is to build AI solution based on visual data analysis.
 
 
 ## service
